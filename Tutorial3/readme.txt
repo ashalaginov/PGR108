@@ -1,0 +1,1 @@
+A short introduction to practice sequential and parallel execution and multithreading in C/C++ using OpenMP and Python using joblib.
